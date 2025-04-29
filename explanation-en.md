@@ -2,19 +2,19 @@
 
 ## I. Score Sheet Basics
 
-This score sheet is the standard form used by examiners during the WA driving skills test to evaluate your performance[cite: 1]. It covers various driving maneuvers and general driving behaviors. The examiner marks errors according to specific criteria, leading to point deductions.
+This score sheet is the standard form used by examiners during the WA driving skills test to evaluate your performance. It covers various driving maneuvers and general driving behaviors. The examiner marks errors according to specific criteria, leading to point deductions.
 
 ## II. Deduction Code Explanations
 
-| Code | Full Name            | Meaning                                                      | Description                                                                          |
-| :--- | :------------------- | :----------------------------------------------------------- | :----------------------------------------------------------------------------------- |
-| `DP` | Danger Potential     | Errors that could potentially lead to a dangerous situation. | Usually results in higher point deductions[cite: 1].                                    |
-| `LS` | Lack of Skill        | Errors demonstrating insufficient skill but not immediate danger. | Results in lower point deductions[cite: 1].                                             |
-| `CP` | Congestion Potential | Errors that could unnecessarily impede traffic flow.         | Also results in lower point deductions[cite: 1].                                          |
+| Code | Full Name            | Meaning                                                      | Description                                                  |
+| :--- | :------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| `DP` | Danger Potential     | Errors that could potentially lead to a dangerous situation. | Usually results in higher point deductions.                  |
+| `LS` | Lack of Skill        | Errors demonstrating insufficient skill but not immediate danger. | Results in lower point deductions.                         |
+| `CP` | Congestion Potential | Errors that could unnecessarily impede traffic flow.         | Also results in lower point deductions.                      |
 
 ## III. Test Items and Deduction Points Explained
 
-* **Note:** The explanations for the specific error abbreviations below are based on common driving errors and context from the provided score sheet[cite: 2]. For official definitions, always refer to materials from the Washington State Department of Licensing (WA DOL). Maximum points listed are per sub-category (DP, LS, CP) within the larger test item[cite: 2].
+* **Note:** The explanations for the specific error abbreviations below are based on common driving errors and context from the provided score sheet. For official definitions, always refer to materials from the Washington State Department of Licensing (WA DOL). Maximum points listed are per sub-category (DP, LS, CP) within the larger test item.
 
 | Test Item                 | Skill Tested                                                           | Deduction Type | Error Codes (Abbr.) & Interpreted Meaning                                                                                                         | Max Pts |
 | :------------------------ | :--------------------------------------------------------------------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------ |
@@ -23,14 +23,14 @@ This score sheet is the standard form used by examiners during the WA driving sk
 | **Parallel Parking** | Parking parallel to a curb between objects/lines.                  | **DP** | `Vis`(Poor observation), `Sig`(Signal error/missing), `Cont`(Lack of control), `Thru`(Through space boundaries), `Curb`(Hitting curb hard), `Unable`(Unable to perform), `Road`(Improper road position) | 4       |
 |                           |                                                                        | **LS** | `Curb`(Touching curb/improper distance), `1 1/2`(Excessive space used), `Joc`(Jerky operation/clutch)                                          | 2       |
 |                           |                                                                        | **CP** | `Try`(Excessive attempts/time), `Dis`(Improper distance/spacing), `Cent`(Not centered)                                                           | 2       |
-| **Park and start on hill** | Parking/starting safely on a hill (uphill/downhill, w/ or w/o curb). | **DP** | `Vis`(Poor observation), `Sig`(Signal error/missing), `Pb`(Parking brake error), `Gear`(Gear selection error), `Wh`(Wheel direction error), `Dis`(Excessive roll distance), `Ctl`(Lack of control), `Curb`(Hitting curb/rolling into traffic) | 4       |
+| **Park and start on hill**| Parking/starting safely on a hill (uphill/downhill, w/ or w/o curb). | **DP** | `Vis`(Poor observation), `Sig`(Signal error/missing), `Pb`(Parking brake error), `Gear`(Gear selection error), `Wh`(Wheel direction error), `Dis`(Excessive roll distance), `Ctl`(Lack of control), `Curb`(Hitting curb/rolling into traffic) | 4       |
 |                           |                                                                        | **LS** | `Joc`(Jerky operation/stall), `Curb`(Touching curb on start), `Ctl`(Minor control issue/slight roll)                                             | 2       |
 |                           |                                                                        | **CP** | `Dis`(Slight roll but controlled, potentially delaying traffic)                                                                                   | 2       |
 | **Starting (General)** | Starting smoothly from a stopped position.                             | **DP** | `Vis`(Poor observation before start), `Sig`(Signal error/missing when pulling from curb), `Curb`(Unsafe pullout/hitting curb)                      | 4       |
 |                           |                                                                        | **CP** | `Stp`(Unnecessary stop after starting), `Hes`(Hesitation, impeding traffic)                                                                      | 2       |
 | **Lane travel** | Maintaining lane position, changing lanes correctly.                 | **DP** | `Vis`(Poor observation - mirrors/blind spot), `Sig`(Lane change signal error/missing), `Rt`(Improper lane use), `Lanes`(Straddling/unnecessary changes), `Curb`(Too close/hitting curb/edge) | 4       |
 |                           |                                                                        | **CP** | `Lanes`(Weaving within lane), `Weave`(See above)                                                                                                   | 2       |
-| **Traffic control devices** | Responding correctly to traffic signs (not stops/signals).             | **DP** | `Ftc`(Failure to comply, e.g., speeding)                                                                                                          | 4       |
+| **Traffic control devices**| Responding correctly to traffic signs (not stops/signals).             | **DP** | `Ftc`(Failure to comply, e.g., speeding)                                                                                                          | 4       |
 |                           |                                                                        | **CP** | `Stp`(Unnecessary stop for a non-stop device)                                                                                                     | 2       |
 | **Stop signs/ Flashing lights** | Correctly stopping/proceeding at stop signs/flashing reds.           | **DP** | `Vis`(Poor observation of cross-traffic/pedestrians), `2Stp`(Incomplete stop/rolling stop, or failure to perform safety stop if needed)              | 4       |
 |                           |                                                                        | **CP** | `SI`(Stopping improperly - location), `Cw`(Stopping in crosswalk), `Int`(Encroaching into intersection prematurely)                             | 2       |
@@ -57,7 +57,7 @@ This score sheet is the standard form used by examiners during the WA driving sk
 
 ## IV. WA Road Skill Test Preparation Plan (Based on Score Sheet)
 
-Use this plan, focusing on the areas evaluated by the score sheet[cite: 2], to prepare for your test:
+Use this plan, focusing on the areas evaluated by the score sheet, to prepare for your test:
 
 1.  **Know Your Vehicle (`Mechanical Operation`)**:
     * Practice smooth starts, stops, acceleration, and braking.
@@ -101,8 +101,8 @@ Use this plan, focusing on the areas evaluated by the score sheet[cite: 2], to p
 
 9.  **Mock Test**:
     * Practice on likely test routes near the testing center, if possible.
-    * Have an experienced driver or instructor simulate the test using this score sheet[cite: 2], providing critical feedback.
+    * Have an experienced driver or instructor simulate the test using this score sheet, providing critical feedback.
 
 ---
 
-*Disclaimer: This document provides an interpretation based on the user-provided score sheet file [cite: 1, 2, 3] and general driving knowledge. For all official definitions, rules, and regulations, please refer to the latest Washington State Driver Guide and other official materials published by the Washington State Department of Licensing (WA DOL).*
+*Disclaimer: This document provides an interpretation based on the user-provided score sheet file and general driving knowledge. For all official definitions, rules, and regulations, please refer to the latest Washington State Driver Guide and other official materials published by the Washington State Department of Licensing (WA DOL).*
