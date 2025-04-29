@@ -1,5 +1,5 @@
 # 🚗 Washington State Driving Test Score Sheet - Explained
-# 华盛顿州驾照路考计分表详解
+# 🚙 华盛顿州驾照路考计分表详解
 
 [![Language](https://img.shields.io/badge/Language-EN%20%26%20ZH-blue.svg)](https://shields.io/)
 
